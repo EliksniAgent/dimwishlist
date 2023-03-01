@@ -21,6 +21,10 @@ description:I dislike some perks
 dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
 dimwishlist:item=-69420&perks=1546637391#notes:Vorpal is good for PVE!
 
+//Swashbuckler
+//notes:Swahbuckler can be good on this weapon
+//dimwishlist:item=11&perks=280464955
+
 
 //------------- PVP --------------
 
@@ -38,28 +42,28 @@ dimwishlist:item=-6&perks=280464955
 dimwishlist:item=-8&perks=280464955
 dimwishlist:item=-3317538576&perks=280464955
 
-//Trash perk: "Opening Shot"
+//Opening Shot
 //notes:Opening Shot is bad
 dimwishlist:item=-4&perks=47981717
 dimwishlist:item=-6&perks=47981717
 dimwishlist:item=-8&perks=47981717
 dimwishlist:item=-3317538576&perks=47981717
 
-//Trash perk: "Fieldprep"
+//Fieldprep
 //notes:Fieldprep is bad
 dimwishlist:item=-4&perks=2869569095
 dimwishlist:item=-6&perks=2869569095
 dimwishlist:item=-8&perks=2869569095
 dimwishlist:item=-3317538576&perks=2869569095
 
-//Trash perk: "Perpetual Motion"
+//Perpetual Motion
 //notes:Perpetual Motion is bad
 dimwishlist:item=-4&perks=1428297954
 dimwishlist:item=-6&perks=1428297954
 dimwishlist:item=-8&perks=1428297954
 dimwishlist:item=-3317538576&perks=1428297954
 
-//Trash perk: "Perpetual Motion"
+//Slideways
 //notes:Slideways is bad on this weapon
 dimwishlist:item=-8&perks=2039302152
 dimwishlist:item=-4&perks=2039302152
