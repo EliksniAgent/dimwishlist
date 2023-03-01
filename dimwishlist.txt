@@ -7,3 +7,7 @@ dimwishlist:item=-69420&perks=2869569095#notes:Fieldprep (bad)
 dimwishlist:item=-69420&perks=47981717#notes:Opening Shot (bad)
 dimwishlist:item=-69420&perks=280464955#notes:Firmly planted (bad)
 dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
+
+
+//PVP Shotguns
+dimwishlist:item=11&perks=2039302152#notes:Slideways on shotgun, good for PVP?
