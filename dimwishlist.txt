@@ -1,6 +1,18 @@
 title:Feliksis' Wishlist
 description:I dislike some perks
 
+//Quick Notes
+//ItemCategoryIDs:
+//    Scoutrifles: 8
+//    Sidearms:
+//    Shotguns:
+//    Sniperrifles:
+//    Swords:
+//    Fusion Rifle: 4
+//    Hand Cannons: 6
+//    Bows: 3317538576
+
+
 //------------- PVE --------------
 dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
 
@@ -11,10 +23,38 @@ dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
 dimwishlist:item=11&perks=2039302152#notes:Slideways on shotgun, good for PVP?
 
 //------------- Trashlist ----------
-dimwishlist:item=-69420&perks=1428297954#notes:Perpetual motion is bad
-dimwishlist:item=-8&perks=2039302152#notes:Slideways is bad on Scoutrifles
-dimwishlist:item=-4&perks=2039302152#notes:Slideways is bad on Fusionrifles
+
 dimwishlist:item=-4&perks=4082225868#notes:Swashbuckler on Fusionrifles... Bad
-dimwishlist:item=-69420&perks=2869569095#notes:Fieldprep (bad)
-dimwishlist:item=-69420&perks=47981717#notes:Opening Shot (bad)
-dimwishlist:item=-69420&perks=280464955#notes:Firmly planted (bad)
+
+//Trash perk : "Firmly Planted"
+//notes:Firmly Planted is bad
+dimwishlist:item=4&perks=280464955
+dimwishlist:item=6&perks=280464955
+dimwishlist:item=8&perks=280464955
+dimwishlist:item=3317538576&perks=280464955
+
+//Trash perk: "Opening Shot"
+//notes:Opening Shot is bad
+dimwishlist:item=4&perks=47981717
+dimwishlist:item=6&perks=47981717
+dimwishlist:item=8&perks=47981717
+dimwishlist:item=3317538576&perks=47981717
+
+//Trash perk: "Fieldprep"
+//notes:Fieldprep is bad
+dimwishlist:item=4&perks=2869569095
+dimwishlist:item=6&perks=2869569095
+dimwishlist:item=8&perks=2869569095
+dimwishlist:item=3317538576&perks=2869569095
+
+//Trash perk: "Perpetual Motion"
+//notes:Perpetual Motion is bad
+dimwishlist:item=4&perks=1428297954
+dimwishlist:item=6&perks=1428297954
+dimwishlist:item=8&perks=1428297954
+dimwishlist:item=3317538576&perks=1428297954
+
+//Trash perk: "Perpetual Motion"
+//notes:Slideways is bad on this weapon
+dimwishlist:item=-8&perks=2039302152
+dimwishlist:item=-4&perks=2039302152
