@@ -19,6 +19,7 @@ description:I dislike some perks
 
 //------------- PVE --------------
 dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
+dimwishlist:item=-69420&perks=1546637391#notes:Vorpal is good for PVE!
 
 
 //------------- PVP --------------
