@@ -32,9 +32,6 @@ dimwishlist:item=-69420&perks=1546637391#notes:Vorpal is good for PVE!
 dimwishlist:item=11&perks=2039302152#notes:Slideways on shotgun, good for PVP?
 
 //------------- Trashlist ----------
-
-dimwishlist:item=-4&perks=4082225868#notes:Swashbuckler on Fusionrifles... Bad
-
 //Trash perk : "Firmly Planted"
 //notes:Firmly Planted is bad
 dimwishlist:item=-4&perks=280464955
