@@ -65,5 +65,12 @@ dimwishlist:item=-3317538576&perks=1428297954
 
 //Slideways
 //notes:Slideways is bad on this weapon
-dimwishlist:item=-8&perks=2039302152
-dimwishlist:item=-4&perks=2039302152
+dimwishlist:item=-8&perks=2039302152 // Scoutrifle
+dimwishlist:item=-4&perks=2039302152 // Fusionrifle
+
+//Hip-fire Grip
+//notes:You always use ADS, Hip-Fire Grip is useless here
+dimwishlist:item=-4&perks=1866048759
+dimwishlist:item=-6&perks=1866048759
+dimwishlist:item=-8&perks=1866048759
+dimwishlist:item=-3317538576&perks=1866048759
