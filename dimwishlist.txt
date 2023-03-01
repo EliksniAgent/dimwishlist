@@ -4,14 +4,18 @@ description:I dislike some perks
 //Quick Notes
 //ItemCategoryIDs:
 //    Scoutrifles: 8
-//    Sidearms:
-//    Shotguns:
-//    Sniperrifles:
-//    Swords:
 //    Fusion Rifle: 4
 //    Hand Cannons: 6
+//    Sniperrifles: 10
+//    Shotguns: 11
+//    Machine Guns: 12
+//    Rocket Launcher: 13
+//    Sidearms: 14
+//    Swords: 54
+//    Grenade Launcher: 153950757
 //    Bows: 3317538576
 //    Tracerifles: 2489664120
+//    Glaive: 3871742104
 
 //------------- PVE --------------
 dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
