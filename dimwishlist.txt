@@ -1,1 +1,7 @@
-dimwishlist:item=-8&perks=-2039302152#notes:Slideways is bad on Scoutrifles
+dimwishlist:item=-8&perks=2039302152#notes:Slideways is bad on Scoutrifles
+dimwishlist:item=-4&perks=2039302152#notes:Slideways is bad on Fusionrifles
+dimwishlist:item=-4&perks=4082225868#notes:Swashbuckler on Fusionrifles... Bad
+dimwishlist:item=-69420&perks=2869569095#notes:Fieldprep (bad)
+dimwishlist:item=-69420&perks=47981717#notes:Opening Shot (bad)
+dimwishlist:item=-69420&perks=280464955#notes:Firmly planted (bad)
+dimwishlist:item=69420&perks=3523296417#notes:Demolitionist, good!
