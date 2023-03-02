@@ -20,6 +20,7 @@ description:I dislike some perks
 //------------- PVE --------------
 dimwishlist:item=-69420&perks=3523296417#notes:Demolitionist, good!
 dimwishlist:item=-69420&perks=1546637391#notes:Vorpal is good for PVE!
+dimwishlist:item=12&perks=1546637391,1354429876#notes:Bosskiller Machine Gun
 
 //Swashbuckler
 //notes:Swahbuckler can be good on this weapon
