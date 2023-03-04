@@ -68,9 +68,18 @@ dimwishlist:item=-3317538576&perks=2869569095
 //Perpetual Motion
 //notes:Perpetual Motion is bad
 dimwishlist:item=-4&perks=1428297954
-dimwishlist:item=-6&perks=1428297954
 dimwishlist:item=-8&perks=1428297954
+dimwishlist:item=-6&perks=1428297954
+dimwishlist:item=-10&perks=1428297954
+dimwishlist:item=-11&perks=1428297954
+dimwishlist:item=-12&perks=1428297954
+dimwishlist:item=-13&perks=1428297954
+dimwishlist:item=-14&perks=1428297954
+dimwishlist:item=-54&perks=1428297954
+dimwishlist:item=-153950757&perks=1428297954
+dimwishlist:item=-2489664120&perks=1428297954
 dimwishlist:item=-3317538576&perks=1428297954
+dimwishlist:item=-3871742104&perks=1428297954
 
 //Slideways
 //notes:Slideways is bad on this weapon
