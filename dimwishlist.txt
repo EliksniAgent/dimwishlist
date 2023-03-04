@@ -34,8 +34,8 @@ dimwishlist:item=11&perks=2039302152#notes:Slideways on shotgun, good for PVP?
 
 //------------- Trashlist ----------
 //Submachine Guns
-//notes:Vorpal on a submachine gun, really?
-dimwishlist:item=-12&perks=1546637391
+dimwishlist:item=-12&perks=1546637391#notes:Vorpal on a submachine gun, really?
+dimwishlist:item=-12&perks=2451262963#notes:Fragile focus on a short range weapon...
 
 //Trash perk : "Firmly Planted"
 //notes:Firmly Planted is bad
@@ -76,3 +76,8 @@ dimwishlist:item=-4&perks=1866048759
 dimwishlist:item=-6&perks=1866048759
 dimwishlist:item=-8&perks=1866048759
 dimwishlist:item=-3317538576&perks=1866048759
+
+//Eye of the Storm
+//notes:Perk only useful when you're close to dying. Who are you, Tyrael??
+dimwishlist:item=-4&perks=699525795
+dimwishlist:item=-12&perks=699525795
