@@ -13,6 +13,7 @@ description:I dislike some perks
 //    Sidearms: 14
 //    Swords: 54
 //    Grenade Launcher: 153950757
+//    Linear Fusion Rifles: 1504945536
 //    Bows: 3317538576
 //    Tracerifles: 2489664120
 //    Glaive: 3871742104
@@ -27,6 +28,10 @@ dimwishlist:item=12&perks=1546637391,1354429876#notes:Bosskiller Machine Gun
 //notes:Swahbuckler can be good on this weapon
 //dimwishlist:item=11&perks=280464955
 
+//Linear Fusion Rifles
+//dimwishlist:item=1504945536&perks=2551157718,4104185692#notes:Bosskiller Fusion Rifle
+//dimwishlist:item=1504945536&perks=2551157718,1546637391#notes:Bosskiller Fusion Rifle
+//dimwishlist:item=1504945536&perks=4104185692,1546637391#notes:Bosskiller Fusion Rifle
 
 //------------- PVP --------------
 
