@@ -113,3 +113,19 @@ dimwishlist:item=-153950757&perks=2451262963
 dimwishlist:item=-2489664120&perks=2451262963
 dimwishlist:item=-3317538576&perks=2451262963
 dimwishlist:item=-3871742104&perks=2451262963
+
+//Steady Hands (509074078)
+//notes:You don't switch weapons enough for Steady Hands to be a useful perk
+dimwishlist:item=-4&perks=509074078
+dimwishlist:item=-8&perks=509074078
+dimwishlist:item=-6&perks=509074078
+dimwishlist:item=-10&perks=509074078
+dimwishlist:item=-11&perks=509074078
+dimwishlist:item=-12&perks=509074078
+dimwishlist:item=-13&perks=509074078
+dimwishlist:item=-14&perks=509074078
+dimwishlist:item=-54&perks=509074078
+dimwishlist:item=-153950757&perks=509074078
+dimwishlist:item=-2489664120&perks=509074078
+dimwishlist:item=-3317538576&perks=509074078
+dimwishlist:item=-3871742104&perks=509074078
