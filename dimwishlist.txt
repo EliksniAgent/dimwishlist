@@ -3,8 +3,9 @@ description:I dislike some perks
 
 //Quick Notes
 //ItemCategoryIDs:
-//    Scoutrifles: 8
 //    Fusion Rifle: 4
+//    Pulse Rifle: 7
+//    Scoutrifles: 8
 //    Hand Cannons: 6
 //    Sniperrifles: 10
 //    Shotguns: 11
@@ -51,6 +52,9 @@ dimwishlist:item=-10&perks=2839173408,2896038713#notes:Focused Fury conflicts wi
 
 //Grenade Launchers
 dimwishlist:item=-153950757&perks=4049631843#notes:One For All on a Heavy Grenade Launcher. Not used to clear rooms. Better perks overall.
+
+//Pulserifles
+dimwishlist:item=-7&perks=671806388#notes:Focused fury on Pulse Rifle is a bad idea.
 
 //Trash perk : "Firmly Planted"
 //notes:Firmly Planted is bad
@@ -142,6 +146,7 @@ dimwishlist:item=-3871742104&perks=509074078
 //Compulsive Reloader + Focused Fury
 //notes:Conflicting perks
 dimwishlist:item=-4&perks=2896038713,671806388
+dimwishlist:item=-7&perks=2896038713,671806388
 dimwishlist:item=-8&perks=2896038713,671806388
 dimwishlist:item=-6&perks=2896038713,671806388
 dimwishlist:item=-10&perks=2896038713,671806388
