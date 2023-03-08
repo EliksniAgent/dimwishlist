@@ -13,6 +13,7 @@ description:I dislike some perks
 //    Rocket Launcher: 13
 //    Sidearms: 14
 //    Swords: 54
+//    Submachine Gun: 3954685534
 //    Grenade Launcher: 153950757
 //    Linear Fusion Rifles: 1504945536
 //    Bows: 3317538576
@@ -26,7 +27,8 @@ dimwishlist:item=-69420&perks=1546637391#notes:Vorpal is good for PVE!
 dimwishlist:item=-69420&perks=3865257976,4293542123#notes:Solar Things go Boom! Big boom!
 dimwishlist:item=-69420&perks=2621346526,1771339417#notes:Friendship is Magic
 dimwishlist:item=-69420&perks=1823011807#notes:Noble Deeds
-dimwishlist:item=12&perks=1546637391,1354429876#notes:Bosskiller Machine Gun
+dimwishlist:item=12&perks=1546637391,1354429876#notes:Bosskiller Machine Gun (Vorpal + Fourth Time's the Charm)
+dimwishlist:item=12&perks=2896038713,1546637391#notes:Bosskiller Machine Gun (Focused Fury + Vorpal)
 
 //Swashbuckler
 //notes:Swahbuckler can be good on this weapon
@@ -159,4 +161,23 @@ dimwishlist:item=-54&perks=2896038713,671806388
 dimwishlist:item=-153950757&perks=2896038713,671806388
 dimwishlist:item=-2489664120&perks=2896038713,671806388
 dimwishlist:item=-3317538576&perks=2896038713,671806388
+dimwishlist:item=-3871742104&perks=2896038713,671806388
+
+//Pulse Monitor
+//notes:Ehhh Pulse Monitor
+//notes:Conflicting perks
+dimwishlist:item=-3954685534&perks=972757866
+dimwishlist:item=-4&perks=972757866
+dimwishlist:item=-7&perks=972757866
+dimwishlist:item=-8&perks=972757866
+dimwishlist:item=-6&perks=972757866
+dimwishlist:item=-10&perks=972757866
+dimwishlist:item=-11&perks=972757866
+dimwishlist:item=-12&perks=972757866
+dimwishlist:item=-13&perks=972757866
+dimwishlist:item=-14&perks=972757866
+dimwishlist:item=-54&perks=972757866
+dimwishlist:item=-153950757&perks=972757866
+dimwishlist:item=-2489664120&perks=972757866
+dimwishlist:item=-3317538576&perks=972757866
 dimwishlist:item=-3871742104&perks=2896038713,671806388
