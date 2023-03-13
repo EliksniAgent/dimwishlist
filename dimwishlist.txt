@@ -180,3 +180,7 @@ dimwishlist:item=-153950757&perks=972757866
 dimwishlist:item=-2489664120&perks=972757866
 dimwishlist:item=-3317538576&perks=972757866
 dimwishlist:item=-3871742104&perks=2896038713,671806388
+
+
+// Specific Weapons
+dimwishlist:item=3568377122&perks=3523296417,3592538738
