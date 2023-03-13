@@ -1,6 +1,8 @@
 title:Feliksis' Wishlist
 description:I dislike some perks
 
+
+
 //Quick Notes
 //ItemCategoryIDs:
 //    Fusion Rifle: 4
@@ -95,6 +97,9 @@ dimwishlist:item=-153950757&perks=1428297954
 dimwishlist:item=-2489664120&perks=1428297954
 dimwishlist:item=-3317538576&perks=1428297954
 dimwishlist:item=-3871742104&perks=1428297954
+
+//Headseeker
+dimwishlist:item=11&perks=460017080#notes:Headseeker on shutdowns bad
 
 //Slideways
 //notes:Slideways is bad on this weapon
