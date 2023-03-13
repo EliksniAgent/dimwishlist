@@ -50,6 +50,7 @@ dimwishlist:item=11&perks=2039302152#notes:Slideways on shotgun, good for PVP?
 //Submachine Guns
 dimwishlist:item=-12&perks=1546637391#notes:Vorpal on a submachine gun, really?
 dimwishlist:item=-12&perks=2451262963#notes:Fragile focus on a short range weapon...
+dimwishlist:item=-12&perks=3300816228#notes:SMGs don't need help reloading
 
 //Snipers
 dimwishlist:item=-10&perks=2839173408,2896038713#notes:Focused Fury conflicts with Omolon Fluid Dynamics
@@ -66,6 +67,24 @@ dimwishlist:item=-4&perks=280464955
 dimwishlist:item=-6&perks=280464955
 dimwishlist:item=-8&perks=280464955
 dimwishlist:item=-3317538576&perks=280464955
+
+
+//Trash perk : Air Assault (3722653512)
+//notes:Air Assault
+dimwishlist:item=-4&perks=3722653512
+dimwishlist:item=-8&perks=3722653512
+dimwishlist:item=-6&perks=3722653512
+dimwishlist:item=-10&perks=3722653512
+dimwishlist:item=-11&perks=3722653512
+dimwishlist:item=-12&perks=3722653512
+dimwishlist:item=-13&perks=3722653512
+dimwishlist:item=-14&perks=3722653512
+dimwishlist:item=-21&perks=3722653512
+dimwishlist:item=-54&perks=3722653512
+dimwishlist:item=-153950757&perks=3722653512
+dimwishlist:item=-2489664120&perks=3722653512
+dimwishlist:item=-3317538576&perks=3722653512
+dimwishlist:item=-3871742104&perks=3722653512
 
 //Opening Shot
 //notes:Opening Shot is bad
