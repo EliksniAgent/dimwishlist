@@ -24,6 +24,22 @@ dimwishlist:item=-6&perks=280464955
 dimwishlist:item=-8&perks=280464955
 dimwishlist:item=-3317538576&perks=280464955
 
+//Trash Perk : "Elemental Capacitor" (3511092054)
+//notes:Too random to use really (and useless on kinetics). Exception might be solar?
+dimwishlist:item=-4&perks=3511092054
+dimwishlist:item=-7&perks=3511092054
+dimwishlist:item=-8&perks=3511092054
+dimwishlist:item=-6&perks=3511092054
+dimwishlist:item=-10&perks=3511092054
+dimwishlist:item=-11&perks=3511092054
+dimwishlist:item=-12&perks=3511092054
+dimwishlist:item=-13&perks=3511092054
+dimwishlist:item=-14&perks=3511092054
+dimwishlist:item=-54&perks=3511092054
+dimwishlist:item=-153950757&perks=3511092054
+dimwishlist:item=-2489664120&perks=3511092054
+dimwishlist:item=-3317538576&perks=3511092054
+dimwishlist:item=-3871742104&perks=3511092054
 
 //Trash perk : Air Assault (3722653512)
 //notes:Air Assault
@@ -103,6 +119,7 @@ dimwishlist:item=-4&perks=2039302152 // Fusionrifle
 dimwishlist:item=-4&perks=1866048759
 dimwishlist:item=-6&perks=1866048759
 dimwishlist:item=-8&perks=1866048759
+dimwishlist:item=-9&perks=1866048759 //Fusion Rifle
 dimwishlist:item=-3317538576&perks=1866048759
 
 //Eye of the Storm (699525795)
